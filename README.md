@@ -2,10 +2,10 @@
 Repository Structure
 securenet-lab
 │
-├── screenshots/
-├── writeups/
-├── tools/
-└── network-diagram/
+ screenshots/
+ writeups/
+ tools/
+ network-diagram/
 This repository is organized to document my hands‑on cybersecurity lab work in a clear, professional way.
  /screenshots
 
@@ -20,7 +20,6 @@ This folder contains visual proof of lab activity and exploitation, including:
 
 These screenshots demonstrate that the attacks and analysis were performed in a real, functioning lab environment.
 
-⸻
 
  /writeups
 
@@ -39,7 +38,6 @@ Example files:
 	-	dvwa.md
 	-	vulnhub-*.md
 
-⸻
 
  /tools
 
@@ -52,7 +50,6 @@ This folder contains:
 
 These tools support scanning, exploitation, and post‑exploitation tasks inside the lab.
 
-⸻
 
  /network-diagram
 
@@ -64,7 +61,6 @@ This folder contains:
 
 This helps explain how the lab is structured and how traffic flows between systems.
 
-⸻
 
  Purpose of This Repository
 
