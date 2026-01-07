@@ -1,5 +1,5 @@
 # securenet-lab
-📁 Repository Structure
+Repository Structure
 securenet-lab
 │
 ├── screenshots/
